@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\bin\Debug\netcoreapp3.1\Seccion2.exe
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\bin\Debug\netcoreapp3.1\Seccion2.deps.json
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\bin\Debug\netcoreapp3.1\Seccion2.runtimeconfig.json
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\bin\Debug\netcoreapp3.1\Seccion2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\bin\Debug\netcoreapp3.1\Seccion2.dll
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\bin\Debug\netcoreapp3.1\Seccion2.pdb
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\obj\Debug\netcoreapp3.1\Seccion2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\obj\Debug\netcoreapp3.1\Seccion2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\obj\Debug\netcoreapp3.1\Seccion2.AssemblyInfo.cs
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\obj\Debug\netcoreapp3.1\Seccion2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\obj\Debug\netcoreapp3.1\Seccion2.dll
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\obj\Debug\netcoreapp3.1\Seccion2.pdb
+C:\Users\user\Desktop\Git\Seccion2\Seccion2\Seccion2\obj\Debug\netcoreapp3.1\Seccion2.genruntimeconfig.cache
